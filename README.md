@@ -1,4 +1,4 @@
-# Docker with PHP SIMPLE PHP FILE MANAGER
+# Docker with  SIMPLE FILE MANAGER
 
 
 A. Requires:
