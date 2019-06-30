@@ -4,7 +4,8 @@
 A. Requires:
 - install docker in your machine
 - install docker-compoer
-
+- Nginx
+- php 7.2
 
 B. Installation
 
