@@ -19,6 +19,6 @@ Plaese remember set a permission for local file.
 For example 
 sudo 777 src/public to fast show upload data
 
-Thanks for attentions
+Thanks for your attentions
 
 
